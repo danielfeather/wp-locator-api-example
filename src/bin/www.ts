@@ -1,6 +1,7 @@
 import logger from "../logger";
-
 logger.info('Loading dependencies...');
+import * as dotenv from "dotenv";
+dotenv.config()
 import app from "../app";
 import * as http from "http";
 logger.info('Creating http server...');
