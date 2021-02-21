@@ -1,0 +1,70 @@
+[
+  {
+    "id": "5f83953f-30e3-4a69-b9f4-0b793dda351c",
+    "name": "packet-bridge-fish-and-chips",
+    "display_name": "Packet Bridge Fish & Chips",
+    "location": {
+      "address": {
+        "address_line_1": "30 Main Road",
+        "address_line_2": "Bolton Le Sands",
+        "city": "Carnforth",
+        "county": "Lancashire",
+        "post_code": "LA5 8DL",
+        "full": "30 Main Road\nBolton Le Sands\nCarnforth\nLancashire\nLA5 8DL"
+      },
+      "coordinates": {
+        "lat": "54.106762109896316",
+        "long": "-2.7901212539692133"
+      }
+    },
+    "opening_hours": {
+      "monday": "11:30–13:30 & 16:30–20:00",
+      "tuesday": "11:30–13:30 & 16:30–20:00",
+      "wednesday": "11:30–13:30 & 16:30–20:00",
+      "thursday": "11:30–13:30 & 16:30–20:00",
+      "friday": "11:30–13:30 & 16:30–20:00",
+      "saturday": "11:30–13:30 & 16:30–20:00",
+      "sunday": "16:30–20:00"
+    },
+    "contact_details": {
+      "email_address": "hello@packetbridge.co.uk",
+      "phone": "+44 (0)1524 822791"
+    },
+    "created_at": "2021-02-20T14:47:31+0000",
+    "updated_at": "2021-02-20T14:47:31+0000"
+  },
+  {
+    "id": "1547d891-ebf5-4b6f-9654-20c43b9d4fc7",
+    "name": "westgate-fish-and-chips",
+    "display_name": "Westgate Fish & Chips",
+    "location": {
+      "address": {
+        "address_line_1": "21 Glentworth Road",
+        "address_line_2": "Westgate",
+        "city": "Morecambe",
+        "county": "Lancashire",
+        "post_code": "LA4 4SZ",
+        "full": "21 Glentworth Road\nWestgate\nMorecambe\nLancashire\nLA4 4SZ"
+      },
+      "coordinates": {
+        "lat": "54.06233515586753",
+        "long": "-2.8527898306871915"
+      }
+    },
+    "opening_hours": {
+      "monday": "11:00–14:00 & 16:30–20:00",
+      "tuesday": "11:00–14:00 & 16:30–20:00",
+      "wednesday": "11:00–14:00 & 16:30–20:00",
+      "thursday": "11:00–14:00 & 16:30–20:00",
+      "friday": "11:00–14:00 & 16:30–20:00",
+      "saturday": "11:00–14:00 & 16:30–20:00",
+      "sunday": "16:30–20:00"
+    },
+    "contact_details": {
+      "email_address": "hello@westgatefishandchips.co.uk",
+      "phone": "+44 (0)1524 423867"
+    },
+    "created_at": "2021-02-20T15:03:25+0000",
+    "updated_at": "2021-02-20T15:03:25+0000"
+  }
+]
