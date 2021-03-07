@@ -13,8 +13,8 @@
         "full": "30 Main Road\nBolton Le Sands\nCarnforth\nLancashire\nLA5 8DL"
       },
       "coordinates": {
-        "lat": "54.106762109896316",
-        "long": "-2.7901212539692133"
+        "lat": "54.10621186839626",
+        "long": "-2.7902443102095207"
       }
     },
     "opening_hours": {
@@ -31,7 +31,7 @@
       "phone": "+44 (0)1524 822791"
     },
     "created_at": "2021-02-20T14:47:31+0000",
-    "updated_at": "2021-02-20T14:47:31+0000"
+    "updated_at": "2021-03-07T23:16:31+0000"
   },
   {
     "id": "1547d891-ebf5-4b6f-9654-20c43b9d4fc7",
@@ -47,8 +47,8 @@
         "full": "21 Glentworth Road\nWestgate\nMorecambe\nLancashire\nLA4 4SZ"
       },
       "coordinates": {
-        "lat": "54.06233515586753",
-        "long": "-2.8527898306871915"
+        "lat": "54.06175332860665",
+        "long": "-2.852790000000001"
       }
     },
     "opening_hours": {
@@ -65,6 +65,6 @@
       "phone": "+44 (0)1524 423867"
     },
     "created_at": "2021-02-20T15:03:25+0000",
-    "updated_at": "2021-02-20T15:03:25+0000"
+    "updated_at": "2021-03-07T23:29:20+0000"
   }
 ]
